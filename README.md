@@ -1,13 +1,9 @@
-# README
+# Big Ideas Final Project
+_Best neighborhood in the 'burgh... n'at._
 
-## Office hours
-
-If you have questions about what we talked about this week, ANY TA for this class can help you with any problems. That being said, only email YOUR TA. Office hours will be held in the same place as usual. If none of these times work for you, please don't hesitate to reach out via email to set up another time.
-
-## Finale 🏁
-
-For the next few weeks, we will be working on the final project! This week, I will explain the project and what you need to know in order to do it. Also, you'll find out your groups! Let's do this.
-
+## Authors
+- Aaron Sutton
+- Daniel Evans
 
 ## Getting Started™
 
@@ -30,7 +26,3 @@ _**Important**:_ Binder does **not** always save your work. If you need to stop 
 
 Click this button to get started with Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/final-project/master?urlpath=lab)
-
----
-
-Good luck!
