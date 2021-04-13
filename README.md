@@ -16,4 +16,9 @@ Choose one (or more, if we need) datasets to work with and then compile a notebo
 analysis pertaining to the "bestness" of a neighborhood. Work on files individually, then at the end
 we can compile the data into one final "presentation" notebook.
 
+### Git Workflow
+Since we are all collaborators working on individual files, we should not have to worry about merge issues.
+Best practice though, is to work on our own branches, make commits, then PR into master. No need for forks,
+and we can all merge our own PRs. Only thing to **never** do is force push... i.e. `git push -f`.
+
 **Presentation date: April 15-16**
