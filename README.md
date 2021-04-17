@@ -9,7 +9,7 @@ _Best neighborhood in the 'burgh... n'at._
 ## Datasets
 - Aaron: Traffic Data and Car Crash Data
 - Daniel:
-- Diego: 
+- Diego: Fire Incidents and Response Time
 
 ## Collaboration Strategy
 Choose one (or more, if we need) datasets to work with and then compile a notebook that does data
