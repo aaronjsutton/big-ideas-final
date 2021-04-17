@@ -10,6 +10,9 @@ _Best neighborhood in the 'burgh... n'at._
 - Aaron: Traffic Data and Car Crash Data
 - Daniel:
 - Diego: Fire Incidents and Response Time
+  The dataset records every fire-related incident in Pittsburgh, and correspond it to an address, fire zone, and incident type.
+  These classifiers will be used to separate each neighborhood/fire zone and quantify the types of incidents that occur and their response time.
+  Ultimately these will be used to create a ranking, the neighborhood with the ranking closest to 1 shall be declared the best.
 
 ## Collaboration Strategy
 Choose one (or more, if we need) datasets to work with and then compile a notebook that does data
